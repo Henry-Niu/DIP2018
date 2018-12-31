@@ -1,0 +1,25 @@
+The area of No.a picture is 183.546		The volume of No.a picture is 230
+The area of No.b picture is 171.118		The volume of No.b picture is 210
+The area of No.c picture is 153.919		The volume of No.c picture is 205
+The area of No.d picture is 142.874		The volume of No.d picture is 190
+The area of No.e picture is 205.951		The volume of No.e picture is 250
+The area of No.f picture is 180.548		The volume of No.f picture is 230
+The area of No.g picture is 172.023		The volume of No.g picture is 210
+The area of No.h picture is 184.372		The volume of No.h picture is 240
+The area of No.i picture is 189.738		The volume of No.i picture is 245
+The area of No.j picture is 176.849		The volume of No.j picture is 230
+The area of No.k picture is 116.6		The volume of No.k picture is 180
+The area of No.l picture is 116.056		The volume of No.l picture is 190
+The area of No.m picture is 171.943		The volume of No.m picture is 230
+The area of No.n picture is 164.34		The volume of No.n picture is 205
+The area of No.o picture is 163.155		The volume of No.o picture is 210
+The area of No.p picture is 190.034		The volume of No.p picture is 240
+The area of No.q picture is 97.5679		The volume of No.q picture is 150
+The area of No.r picture is 103.32		The volume of No.r picture is 160
+The area of No.s picture is 104.94		The volume of No.s picture is 180
+The area of No.t picture is 211.316		The volume of No.t picture is 260
+The area of No.1 picture is 179.937		The volume of No.1 picture is 226.582
+The area of No.2 picture is 162.827		The volume of No.2 picture is 212.449
+The area of No.3 picture is 170.179		The volume of No.3 picture is 218.125
+The area of No.4 picture is 210.458		The volume of No.4 picture is 262.373
+The function is : V = -1964.37 + 518.463 S ^ ( 1 / 2 ) - 42.6306 S ^ ( 2 / 2 ) + 1.20442 S ^ ( 3 / 2 )
